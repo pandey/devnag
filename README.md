@@ -14,5 +14,4 @@ enhanced the package.
 The package is available from the Comprehensive TeX
 Archive Network (CTAN), for example at the UK primary site:
 
-[ftp://ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis](ftp://ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis)
-
+[https://www.ctan.org/tex-archive/language/devanagari/velthuis/](https://www.ctan.org/tex-archive/language/devanagari/velthuis/)
