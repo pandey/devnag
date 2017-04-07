@@ -16,18 +16,18 @@ then, a dedicated team of developers has maintained and enhanced the package.
 Sarovar is now the official home for the devnag package. The project homepage is
 
 <ul>
-[http://devnag.sarovar.org](http://devnag.sarovar.org)
+[devnag.sarovar.org](http://devnag.sarovar.org)
 </ul>
 
 The latest releases will be available here first and may be downloaded from the 
 development website at
 
 <ul>
-[http://sarovar.org/projects/devnag/](http://sarovar.org/projects/devnag/)
+[sarovar.org/projects/devnag/](http://sarovar.org/projects/devnag/)
 </ul>
 
 The package is also available from the Comprehensive TeX
 Archive Network (CTAN), for example at the UK primary site
 
-[ftp://ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis/](ftp://ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis/)
+[ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis/](ftp://ftp.tex.ac.uk/tex-archive/language/devanagari/velthuis/)
 
