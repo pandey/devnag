@@ -16,7 +16,7 @@ creating several new glyphs.
 The package is available from the Comprehensive TeX
 Archive Network (CTAN), for example at the UK primary site:
 
-[https://www.ctan.org/tex-archive/language/devanagari/velthuis/](https://www.ctan.org/tex-archive/language/devanagari/velthuis/)
+  [https://www.ctan.org/tex-archive/language/devanagari/velthuis/](https://www.ctan.org/tex-archive/language/devanagari/velthuis/)
 
 In modern TeX systems, such as XeTeX, that natively support Unicode, the devnag.c 
 preprocessor is no longer required as Devanagari text can be directly input 
